@@ -1,0 +1,13 @@
+git clone ssh_link --> To Clone/Download GIT CODE to your LOCAL Mahine
+
+git gui            --> To OPEN GUI interface, where you can see changes you made and stage them to commit
+
+git commit -m "commit message here"       --> command to commit changes with message
+
+git push          ---> PUSH changes to git
+
+git checkout BRANCH_NAME   --> switch branchs
+
+git checkout -b BRANCH_NAME  --> Create copy/branch
+
+git merge BRANCH_WHICH_YOU_WANT_TO_MERGE     --> merge another branch into your branch
